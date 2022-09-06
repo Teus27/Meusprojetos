@@ -10,7 +10,7 @@ switch(num){
     printf("Valor em dolar: 100.00\n");
     printf("Codigo do pais: 1\n");
     printf("Cotacao do dia: 5.48\n");
-    printf("A conversao de $ 100.00 em dólar no dia de hoje equivale a R$ 548.00\n");
+    printf("A conversao de $ 100.00 em dolar no dia de hoje equivale a R$ 548.00\n");
    break;
   }
   case 2:{
